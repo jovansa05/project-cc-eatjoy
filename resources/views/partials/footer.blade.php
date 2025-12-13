@@ -29,9 +29,9 @@
             <div class="col-md-3 mb-3">
                 <h6 class="fw-bold">Contact Us</h6>
                 <ul class="list-unstyled">
-                    <li><i class="fas fa-envelope me-2"></i>support@eatjoy.com</li>
+                    <li><i class="fas fa-envelope me-2"></i>EatJoy@cloud.com</li>
                     <li><i class="fas fa-phone me-2"></i>+62 812 3456 7890</li>
-                    <li><i class="fas fa-map-marker-alt me-2"></i>Jakarta, Indonesia</li>
+                    <li><i class="fas fa-map-marker-alt me-2"></i>Surabaya, Indonesia</li>
                 </ul>
             </div>
         </div>
@@ -40,7 +40,7 @@
         
         <div class="row">
             <div class="col-md-6">
-                <p class="mb-0 small">&copy; 2024 EatJoy. All rights reserved.</p>
+                <p class="mb-0 small">&copy; 2025 EatJoy. All rights reserved.</p>
             </div>
             <div class="col-md-6 text-end">
                 <div class="d-flex justify-content-end gap-3">
